@@ -1,0 +1,14 @@
+# Bases de datos locales (No se suben para proteger la privacidad)
+*.db
+*.sqlite3
+
+# Python (Archivos temporales que genera el sistema)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Configuración de VS Code
+.vscode/
